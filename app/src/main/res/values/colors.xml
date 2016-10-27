@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundPrimary">#040029</color>
+    <color name="backgroundSecondary">#EEEEEE</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="textColor_yellow">#ffd800</color>
+    <color name="textColor_white">#FFFFFF</color>
+    <color name="editbox_grey">#C0C0C0</color>
+    <color name="editbox_darkgrey">#A9A9A9</color>
+    <color name="btn_login_pink">#FF1493</color>
+    <color name="orange">#FFA500</color>
+</resources>

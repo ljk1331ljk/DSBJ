@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DSBJ</string>
+
+    <!-- Strings related to login -->
+    <string name="login_instruction">SIGN IN TO YOUR ACCOUNT</string>
+    <string name="login_btn">SIGN IN</string>
+    <string name="login_forget">Forget Password?</string>
+    <string name="title_activity_events">Home</string>
+
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu">Menu</string>
+
+    <string name="spublic">PUBLIC</string>
+    <string name="sprivate">PRIVATE</string>
+    <string name="going">Going</string>
+
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="string_array">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+    </string-array>
+</resources>
